@@ -1,1 +1,5 @@
 # next-tech
+This Tutorial helped me build upon my web development knowledge in so many ways.
+I picked this tutorial specifically to learn about how to make a mobile-view responsive website.
+I followed along writing the code myself. This is about the fifth website ive built by following tutorials and also this is around about 2 months after having completed basic training in HTML, CSS, and javascript.Going into this tutorial I was already familiar with basic syntax and web design skills such as how to create a navbar, how to style with CSS, and how to use javascript functions to create an interactive toggle button. This project taught me more than just designing a mobile friendly website, such as how to create a website footer. I also gained valuable resources such as fontawesome.com icons for social links, undraw.co for clip images and Pexel.com for free generic images. I learned the CSS syntax to design a mobile friendly website ( @media screen and (max-width: XXpx)). I even learned some new CSS skills such as linear gradient(to top,...) and transition: 0.3s ease in;.
+This project was exciting and i can't wait to practice these new skills ive learned.
